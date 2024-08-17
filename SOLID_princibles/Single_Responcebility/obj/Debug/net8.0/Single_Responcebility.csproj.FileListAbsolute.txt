@@ -1,0 +1,14 @@
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responcebility.exe
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responcebility.deps.json
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responcebility.runtimeconfig.json
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responcebility.dll
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responcebility.pdb
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.AssemblyInfo.cs
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.dll
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\refint\Single_Responcebility.dll
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.pdb
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responcebility.genruntimeconfig.cache
+D:\Edu\BackEnd\SOLID\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\ref\Single_Responcebility.dll

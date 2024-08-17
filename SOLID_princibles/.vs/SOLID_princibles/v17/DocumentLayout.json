@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|d:\\edu\\backend\\solid\\solid_princibles\\single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|solutionrelative:single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Program.cs",
+              "RelativeDocumentMoniker": "Single_Responcebility\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Program.cs",
+              "RelativeToolTip": "Single_Responcebility\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:09:37.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
