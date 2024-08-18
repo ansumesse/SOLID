@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\",
+  "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|d:\\edu\\backend\\solid\\solid_princibles\\single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|solutionrelative:single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\AccountService.cs",
+              "RelativeDocumentMoniker": "Single_Responcebility\\After\\AccountService.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\AccountService.cs",
+              "RelativeToolTip": "Single_Responcebility\\After\\AccountService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:54:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\EmailService.cs",
+              "RelativeDocumentMoniker": "Single_Responcebility\\After\\EmailService.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\EmailService.cs",
+              "RelativeToolTip": "Single_Responcebility\\After\\EmailService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:51:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\Account.cs",
+              "RelativeDocumentMoniker": "Single_Responcebility\\After\\Account.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\Account.cs",
+              "RelativeToolTip": "Single_Responcebility\\After\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:50:20.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Program.cs",
               "RelativeDocumentMoniker": "Single_Responcebility\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Program.cs",
               "RelativeToolTip": "Single_Responcebility\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T20:09:37.33Z",
               "EditorCaption": ""

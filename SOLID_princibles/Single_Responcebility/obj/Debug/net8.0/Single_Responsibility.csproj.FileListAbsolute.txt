@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responsibility.exe
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responsibility.deps.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responsibility.runtimeconfig.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responsibility.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\bin\Debug\net8.0\Single_Responsibility.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.AssemblyInfo.cs
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.sourcelink.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\refint\Single_Responsibility.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\Single_Responsibility.genruntimeconfig.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Single_Responcebility\obj\Debug\net8.0\ref\Single_Responsibility.dll

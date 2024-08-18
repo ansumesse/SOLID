@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Single_Responcebility.csproj",
-      "projectName": "Single_Responcebility",
-      "projectPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\Single_Responcebility.csproj",
+      "projectUniqueName": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Single_Responsibility.csproj",
+      "projectName": "Single_Responsibility",
+      "projectPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Single_Responsibility.csproj",
       "packagesPath": "C:\\Users\\manas\\.nuget\\packages\\",
-      "outputPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID_princibles\\Single_Responcebility\\obj\\",
+      "outputPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\manas\\AppData\\Roaming\\NuGet\\NuGet.Config",
