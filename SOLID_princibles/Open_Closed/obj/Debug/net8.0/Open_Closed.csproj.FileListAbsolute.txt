@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\bin\Debug\net8.0\Open_Closed.exe
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\bin\Debug\net8.0\Open_Closed.deps.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\bin\Debug\net8.0\Open_Closed.runtimeconfig.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\bin\Debug\net8.0\Open_Closed.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\bin\Debug\net8.0\Open_Closed.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.AssemblyInfo.cs
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.sourcelink.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\refint\Open_Closed.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\Open_Closed.genruntimeconfig.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Open_Closed\obj\Debug\net8.0\ref\Open_Closed.dll

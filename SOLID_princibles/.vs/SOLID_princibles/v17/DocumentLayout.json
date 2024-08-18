@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responcebility.csproj|solutionrelative:single_responcebility\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\multiplequstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\multiplequstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\single_responcebility\\after\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E231256E-441F-4097-929D-B1ED26620065}|Single_Responcebility\\Single_Responsibility.csproj|solutionrelative:single_responcebility\\after\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\whquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\whquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\AccountService.cs",
-              "RelativeDocumentMoniker": "Single_Responcebility\\After\\AccountService.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\AccountService.cs",
-              "RelativeToolTip": "Single_Responcebility\\After\\AccountService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA2wBAAAAAYAAAA",
+              "DocumentIndex": 7,
+              "Title": "TrueFalseQuestion.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\TrueFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\After\\TrueFalseQuestion.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\TrueFalseQuestion.cs",
+              "RelativeToolTip": "Open_Closed\\After\\TrueFalseQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:54:23.441Z",
+              "WhenOpened": "2024-08-18T23:17:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Quiz.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\Before\\Quiz.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Quiz.cs",
+              "RelativeToolTip": "Open_Closed\\Before\\Quiz.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:13:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WhQuestion.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\WhQuestion.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\After\\WhQuestion.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\WhQuestion.cs",
+              "RelativeToolTip": "Open_Closed\\After\\WhQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:12:57.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\Question.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\After\\Question.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\Question.cs",
+              "RelativeToolTip": "Open_Closed\\After\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:10:03.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\EmailService.cs",
-              "RelativeDocumentMoniker": "Single_Responcebility\\After\\EmailService.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\EmailService.cs",
-              "RelativeToolTip": "Single_Responcebility\\After\\EmailService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAABDAAAA",
+              "Title": "QuestionBank.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\QuestionBank.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\Before\\QuestionBank.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\QuestionBank.cs",
+              "RelativeToolTip": "Open_Closed\\Before\\QuestionBank.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:51:48.058Z",
+              "WhenOpened": "2024-08-18T23:08:35.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\Account.cs",
-              "RelativeDocumentMoniker": "Single_Responcebility\\After\\Account.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\After\\Account.cs",
-              "RelativeToolTip": "Single_Responcebility\\After\\Account.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAFAAAA",
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Question.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\Before\\Question.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Question.cs",
+              "RelativeToolTip": "Open_Closed\\Before\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T19:50:20.524Z",
+              "WhenOpened": "2024-08-18T23:08:33.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Program.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Program.cs",
+              "RelativeToolTip": "Open_Closed\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:05:39.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Program.cs",
-              "RelativeDocumentMoniker": "Single_Responcebility\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Single_Responcebility\\Program.cs",
-              "RelativeToolTip": "Single_Responcebility\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Title": "MultipleQustion.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\MultipleQustion.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\After\\MultipleQustion.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\MultipleQustion.cs",
+              "RelativeToolTip": "Open_Closed\\After\\MultipleQustion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T20:09:37.33Z",
+              "WhenOpened": "2024-08-18T23:18:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuestionBank.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\QuestionBank.cs",
+              "RelativeDocumentMoniker": "Open_Closed\\After\\QuestionBank.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\QuestionBank.cs",
+              "RelativeToolTip": "Open_Closed\\After\\QuestionBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T23:23:00.134Z",
               "EditorCaption": ""
             }
           ]
