@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Open_Closed", "Open_Closed\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Liscov_Substitution", "Liscov_Substitution\Liscov_Substitution.csproj", "{CBC66DEF-F36E-4502-967A-50C9A6AD9046}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Segregation", "Interface_Segregation\Interface_Segregation.csproj", "{FE303E6B-AB29-42EB-960B-B203B1297003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface_Segregation", "Interface_Segregation\Interface_Segregation.csproj", "{FE303E6B-AB29-42EB-960B-B203B1297003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Inversion", "Dependency_Inversion\Dependency_Inversion.csproj", "{062F441E-67DD-425F-8F56-E53B44702A1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FE303E6B-AB29-42EB-960B-B203B1297003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE303E6B-AB29-42EB-960B-B203B1297003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE303E6B-AB29-42EB-960B-B203B1297003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062F441E-67DD-425F-8F56-E53B44702A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062F441E-67DD-425F-8F56-E53B44702A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062F441E-67DD-425F-8F56-E53B44702A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062F441E-67DD-425F-8F56-E53B44702A1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

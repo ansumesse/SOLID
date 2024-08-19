@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.exe
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.deps.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.runtimeconfig.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\bin\Debug\net8.0\Dependency_Inversion.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.AssemblyInfo.cs
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.sourcelink.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\refint\Dependency_Inversion.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\Dependency_Inversion.genruntimeconfig.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Dependency_Inversion\obj\Debug\net8.0\ref\Dependency_Inversion.dll
