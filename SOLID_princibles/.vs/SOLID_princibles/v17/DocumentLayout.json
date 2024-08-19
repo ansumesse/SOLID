@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\consultant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\daylabourer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\daylabourer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\fixeddepsitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\fixeddepsitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\ibonusesentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\ibonusesentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\iwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\iwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\ihealthinsuranceentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\ihealthinsuranceentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\ideposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\ideposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\ipensionentitlment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\ipensionentitlment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\irentalsubsidyentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\irentalsubsidyentitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\itransportationreimbursemententitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\itransportationreimbursemententitlement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\interface_segregation\\after\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE303E6B-AB29-42EB-960B-B203B1297003}|Interface_Segregation\\Interface_Segregation.csproj|solutionrelative:interface_segregation\\after\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,93 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
-              "RelativeToolTip": "Liscov_Substitution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "DocumentIndex": 7,
+              "Title": "IRentalSubsidyEntitlement.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IRentalSubsidyEntitlement.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\IRentalSubsidyEntitlement.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IRentalSubsidyEntitlement.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\IRentalSubsidyEntitlement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:57:03.913Z",
+              "WhenOpened": "2024-08-19T04:44:23.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SavingAccount.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\SavingAccount.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\SavingAccount.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\SavingAccount.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\SavingAccount.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAeAAAA",
+              "DocumentIndex": 4,
+              "Title": "IBonusesEntitlement.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IBonusesEntitlement.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\IBonusesEntitlement.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IBonusesEntitlement.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\IBonusesEntitlement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:54:11.452Z",
+              "WhenOpened": "2024-08-19T04:31:03.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FixedDepsitAccount.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\FixedDepsitAccount.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\FixedDepsitAccount.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\FixedDepsitAccount.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\FixedDepsitAccount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Employee.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\Employee.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Employee.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:52:01.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CheckingAccount.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\CheckingAccount.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\CheckingAccount.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\CheckingAccount.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\CheckingAccount.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:45:00.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IWithdraw.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IWithdraw.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\IWithdraw.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IWithdraw.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\IWithdraw.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:43:49.327Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IDeposit.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IDeposit.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\IDeposit.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IDeposit.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\IDeposit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:41:28.603Z"
+              "WhenOpened": "2024-08-19T04:30:47.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Account.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\Account.cs",
-              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\Account.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\Account.cs",
-              "RelativeToolTip": "Liscov_Substitution\\After\\Account.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAOAAAA",
+              "Title": "Daylabourer.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Daylabourer.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\Daylabourer.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Daylabourer.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\Daylabourer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:40:23.477Z"
+              "WhenOpened": "2024-08-19T04:30:40.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consultant.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Consultant.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\Consultant.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Consultant.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\Consultant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:30:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\Program.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\Program.cs",
+              "RelativeToolTip": "Interface_Segregation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:40:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPensionEntitlment.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IPensionEntitlment.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\IPensionEntitlment.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IPensionEntitlment.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\IPensionEntitlment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:44:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHealthInsuranceEntitlement.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IHealthInsuranceEntitlement.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\IHealthInsuranceEntitlement.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\IHealthInsuranceEntitlement.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\IHealthInsuranceEntitlement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:44:36.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITransportationReimbursementEntitlement.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\ITransportationReimbursementEntitlement.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\ITransportationReimbursementEntitlement.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\ITransportationReimbursementEntitlement.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\ITransportationReimbursementEntitlement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:44:17.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Repository.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\Repository.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Repository.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:31:10.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Staff.cs",
+              "RelativeDocumentMoniker": "Interface_Segregation\\After\\Staff.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Interface_Segregation\\After\\Staff.cs",
+              "RelativeToolTip": "Interface_Segregation\\After\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:31:16.979Z",
+              "EditorCaption": ""
             }
           ]
         }

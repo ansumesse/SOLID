@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Liscov_Substitution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+969ebd44c67596c43504fbc02f4f85ca6fd7a181")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6c9389ea87c07daeff375d03cd93b8ef16388a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Liscov_Substitution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Liscov_Substitution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
