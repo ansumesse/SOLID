@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\multiplequstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\multiplequstion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\questionbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\fixeddepsitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\fixeddepsitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\whquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\whquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\iwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\iwithdraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\after\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\after\\truefalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\open_closed\\before\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809BC032-E3B9-48D4-9F00-FD86E6F97F27}|Open_Closed\\Open_Closed.csproj|solutionrelative:open_closed\\before\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\ideposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\ideposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,123 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TrueFalseQuestion.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\TrueFalseQuestion.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\After\\TrueFalseQuestion.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\TrueFalseQuestion.cs",
-              "RelativeToolTip": "Open_Closed\\After\\TrueFalseQuestion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\Program.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
+              "RelativeToolTip": "Liscov_Substitution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:17:30.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Quiz.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Quiz.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\Before\\Quiz.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Quiz.cs",
-              "RelativeToolTip": "Open_Closed\\Before\\Quiz.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:13:54.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WhQuestion.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\WhQuestion.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\After\\WhQuestion.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\WhQuestion.cs",
-              "RelativeToolTip": "Open_Closed\\After\\WhQuestion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:12:57.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\Question.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\After\\Question.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\Question.cs",
-              "RelativeToolTip": "Open_Closed\\After\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:10:03.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuestionBank.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\QuestionBank.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\Before\\QuestionBank.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\QuestionBank.cs",
-              "RelativeToolTip": "Open_Closed\\Before\\QuestionBank.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAcwDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:08:35.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Question.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\Before\\Question.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Before\\Question.cs",
-              "RelativeToolTip": "Open_Closed\\Before\\Question.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:08:33.096Z",
+              "WhenOpened": "2024-08-19T03:57:03.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Program.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\Program.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\Program.cs",
-              "RelativeToolTip": "Open_Closed\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\SavingAccount.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\SavingAccount.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\SavingAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T21:05:39.21Z",
+              "WhenOpened": "2024-08-19T03:54:11.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MultipleQustion.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\MultipleQustion.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\After\\MultipleQustion.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\MultipleQustion.cs",
-              "RelativeToolTip": "Open_Closed\\After\\MultipleQustion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentIndex": 3,
+              "Title": "FixedDepsitAccount.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\FixedDepsitAccount.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\FixedDepsitAccount.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\FixedDepsitAccount.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\FixedDepsitAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:18:27.698Z",
+              "WhenOpened": "2024-08-19T03:52:01.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\CheckingAccount.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\CheckingAccount.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\CheckingAccount.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:45:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWithdraw.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IWithdraw.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\IWithdraw.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IWithdraw.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\IWithdraw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:43:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDeposit.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IDeposit.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\IDeposit.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\IDeposit.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\IDeposit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:41:28.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QuestionBank.cs",
-              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\QuestionBank.cs",
-              "RelativeDocumentMoniker": "Open_Closed\\After\\QuestionBank.cs",
-              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Open_Closed\\After\\QuestionBank.cs",
-              "RelativeToolTip": "Open_Closed\\After\\QuestionBank.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\Account.cs",
+              "RelativeDocumentMoniker": "Liscov_Substitution\\After\\Account.cs",
+              "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\Account.cs",
+              "RelativeToolTip": "Liscov_Substitution\\After\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T23:23:00.134Z",
+              "WhenOpened": "2024-08-19T03:40:23.477Z",
               "EditorCaption": ""
             }
           ]

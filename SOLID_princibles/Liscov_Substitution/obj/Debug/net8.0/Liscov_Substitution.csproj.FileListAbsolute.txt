@@ -1,0 +1,15 @@
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\bin\Debug\net8.0\Liscov_Substitution.exe
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\bin\Debug\net8.0\Liscov_Substitution.deps.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\bin\Debug\net8.0\Liscov_Substitution.runtimeconfig.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\bin\Debug\net8.0\Liscov_Substitution.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\bin\Debug\net8.0\Liscov_Substitution.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.AssemblyInfoInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.AssemblyInfo.cs
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.csproj.CoreCompileInputs.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.sourcelink.json
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\refint\Liscov_Substitution.dll
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.pdb
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\Liscov_Substitution.genruntimeconfig.cache
+D:\Edu\BackEnd\SOLID\SOLID-Practise\SOLID_princibles\Liscov_Substitution\obj\Debug\net8.0\ref\Liscov_Substitution.dll
