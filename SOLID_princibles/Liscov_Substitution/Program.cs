@@ -11,7 +11,7 @@ namespace Liscov_Substitution
             Account account2 = new SavingAccount("ahmed", 30000);
             Account account3 = new FixedDepsitAccount("ahmed", 30000);
             Account account4 = new CheckingAccount("ahmed", 30000);
-            
+            Console.ReadKey();
 
         }
     }

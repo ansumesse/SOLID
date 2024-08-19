@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|solutionrelative:liscov_substitution\\after\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBC66DEF-F36E-4502-967A-50C9A6AD9046}|Liscov_Substitution\\Liscov_Substitution.csproj|d:\\edu\\backend\\solid\\solid-practise\\solid_princibles\\liscov_substitution\\after\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
               "RelativeDocumentMoniker": "Liscov_Substitution\\Program.cs",
               "ToolTip": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\Program.cs",
               "RelativeToolTip": "Liscov_Substitution\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T03:57:03.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SavingAccount.cs",
               "DocumentMoniker": "D:\\Edu\\BackEnd\\SOLID\\SOLID-Practise\\SOLID_princibles\\Liscov_Substitution\\After\\SavingAccount.cs",
               "RelativeDocumentMoniker": "Liscov_Substitution\\After\\SavingAccount.cs",
@@ -76,8 +76,7 @@
               "RelativeToolTip": "Liscov_Substitution\\After\\FixedDepsitAccount.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:52:01.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T03:52:01.041Z"
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "RelativeToolTip": "Liscov_Substitution\\After\\CheckingAccount.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:45:00.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T03:45:00.795Z"
             },
             {
               "$type": "Document",
@@ -102,8 +100,7 @@
               "RelativeToolTip": "Liscov_Substitution\\After\\IWithdraw.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:43:49.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T03:43:49.327Z"
             },
             {
               "$type": "Document",
@@ -115,8 +112,7 @@
               "RelativeToolTip": "Liscov_Substitution\\After\\IDeposit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:41:28.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T03:41:28.603Z"
             },
             {
               "$type": "Document",
@@ -128,8 +124,7 @@
               "RelativeToolTip": "Liscov_Substitution\\After\\Account.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T03:40:23.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T03:40:23.477Z"
             }
           ]
         }
